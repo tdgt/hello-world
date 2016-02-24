@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+hello - this is an attempt to do something online, yo.
